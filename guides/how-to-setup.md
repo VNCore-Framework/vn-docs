@@ -23,15 +23,19 @@
 - Đặt mật khẩu quản trị khi được yêu cầu.
 - Làm theo các bước hướng dẫn trên giao diện txAdmin.
 <div align="center">
-  <img src="/img/txadmin.png" align="center" height="200" />
+    <img src="/img/txadmin.png" align="center" height="500" />
 </div>
 
 ### Bước 4: Chọn Template và Lưu Trữ Dữ Liệu
 
 - Chọn "📥 Remote URL Template" rồi điền URL 
-`https://raw.githubusercontent.com/VNCore-Framework/txAdminRecipe/refs/heads/main/vncore.yaml`
+
+```plaintext
+https://raw.githubusercontent.com/VNCore-Framework/txAdminRecipe/refs/heads/main/vncore.yaml
+```
+
 <div align="center">
-  <img src="/img/url.png" align="center" height="200" />
+  <img src="/img/url.png" align="center" height="500" />
 </div>
 - Chọn thư mục để lưu dữ liệu server (nên dùng đường dẫn txAdmin đề xuất).
 - Kéo xuống cuối trang và nhấn "Run Recipe Deployer".
