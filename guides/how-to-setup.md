@@ -53,11 +53,11 @@ https://raw.githubusercontent.com/VNCore-Framework/txAdminRecipe/refs/heads/main
 
 - Nhấn "Run Recipe" để bắt đầu cài đặt.
 - Đợi quá trình cài đặt hoàn tất, bạn sẽ thấy màn hình thông báo thành công.
-> **Cảnh báo:** Nếu gặp lỗi, hãy tham gia Discord chính thức của QBCore và đăng bài trong mục fivem-support.
+> **Cảnh báo:** Nếu gặp lỗi, hãy tham gia Discord chính thức của VNCORE
 > **Lưu ý:** Hãy để quá trình cài đặt Yarn hoàn tất ở lần khởi động đầu tiên.
 
 ### Bước 7: Cấu Hình Quyền Quản Trị
 
-- Sau khi hoàn tất, nên tham khảo file `setting-permissions.md` để cấu hình quyền trong `server.cfg` cho các tài khoản quản trị.
+- Sau khi hoàn tất cấu hình quyền trong `server.cfg` cho các tài khoản quản trị.
 
----
+
