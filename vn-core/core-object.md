@@ -6,10 +6,8 @@
 
 ### Cách truy cập Object VNCore
 
-{% hint style="success" %}
-Chúng tôi khuyến nghị bạn chỉ lọc và lấy những phần cần thiết của core object thay vì import toàn bộ, trừ khi thực sự cần!
-{% endhint %}
 
+Chúng tôi khuyến nghị bạn chỉ lọc và lấy những phần cần thiết của core object thay vì import toàn bộ, trừ khi thực sự cần!
 Để tương tác với đối tượng VNCore trong script của bạn, hãy sử dụng mẫu sau ở đầu script:
 
 * Luôn lưu đối tượng VNCore vào một biến cục bộ để tránh gọi lại `exports` nhiều lần
