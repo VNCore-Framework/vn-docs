@@ -7,7 +7,7 @@
 - Giải nén file Artifact vào thư mục vừa tạo.
 
 <div align="center">
-  <img src="/img/builds.png" align="center" height="200" />
+  <img src="/img/builds.png" align="center" height="350" />
 </div>
 
 ### Bước 2: Khởi Động FXServer và txAdmin
@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/VNCore-Framework/txAdminRecipe/refs/heads/main
 <div align="center">
   <img src="/img/url.png" align="center" height="500" />
 </div>
+
 - Chọn thư mục để lưu dữ liệu server (nên dùng đường dẫn txAdmin đề xuất).
 - Kéo xuống cuối trang và nhấn "Run Recipe Deployer".
 - Nhấn "Next" để tiếp tục.
